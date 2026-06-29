@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+## Im Slept a student in Full stack development based in Victoria, Australia 
 
-- 🔭 I’m currently working on learning
+I design and build whatever i can image. 
+
+If an idea pops into my head, chances are ill build it and ship it.  
+
+- 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Full stack development
-- 👯 I’m looking to collaborate on a creative coding project 
 - 📫 How to reach me: @sleptdev (Twitter, Discord, Instagram)
 - ⚡ Fun fact: 
 -->
