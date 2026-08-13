@@ -10,4 +10,4 @@ If an idea pops into my head, chances are ill build it and ship it.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me: @sleptdev (Discord)
 - ⚡ Fun fact: Im currently on the way to becoming a Full Stack Developer
-- 🤓 Interest: Cars, Tech, Productivity, Gym, 3D Printing
+- 🤓 Interest: Cars, Tech, Gaming, Gym, 3D Printing
